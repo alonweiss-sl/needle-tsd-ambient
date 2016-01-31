@@ -1,0 +1,15 @@
+{
+  "name": "retyped-needle-tsd-ambient",
+  "description": "TypeScript typings for needle",
+  "version": "0.7.8-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/needle-tsd-ambient",
+  "typescript": {
+    "definition": "needle.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
